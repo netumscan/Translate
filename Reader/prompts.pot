@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 18:18+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Reader/source/prompts.md:1
+msgid "Voice Prompts"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:3
+#: ../../Manual/Reader/source/prompts.md:9
+msgid "Start Setup"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:13
+#: ../../Manual/Reader/source/prompts.md:108
+msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:16
+msgid "Enable Voice Prompts"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:22
+msgid "Enable Voice Prompts `Default`"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:25
+#: ../../Manual/Reader/source/prompts.md:31
+msgid "Disable Voice Prompts"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:34
+#: ../../Manual/Reader/source/prompts.md:40
+msgid "Disable Payment Voice"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:43
+#: ../../Manual/Reader/source/prompts.md:49
+msgid "Ding Dong"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:52
+#: ../../Manual/Reader/source/prompts.md:58
+msgid "Scan Code Successfully"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:61
+msgid "Payment Success Voice Solution 1"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:67
+msgid "Payment successful, please wait   Ding Dong"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:71
+msgid "Payment Success Voice Solution 2"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:77
+msgid "WeChat payment successful   Alipay payment successful   UnionPay  payment successful   Scan Successfully"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:83
+msgid "Welcome Use Voice Solution"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:89
+msgid "Welcome to WeChat Pay   Welcome to Alipay   Welcome to UnionPay   Ding Dong"
+msgstr ""
+
+#: ../../Manual/Reader/source/prompts.md:98
+#: ../../Manual/Reader/source/prompts.md:104
+msgid "End Setup"
+msgstr ""

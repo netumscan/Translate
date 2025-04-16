@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 18:24+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wired-CCD/source/system.md:1
+msgid "System Settings"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:3
+#: ../../Manual/Wired-CCD/source/system.md:10
+msgid "Restore Default Settings"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:4
+msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:13
+#: ../../Manual/Wired-CCD/source/system.md:18
+msgid "Get Firmware Version"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:21
+msgid "Volume Settings"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:22
+msgid "Scan the corresponding setting code to turn on/off the sound prompt of the scanner"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:24
+msgid "Enable"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:29
+msgid "Enable `Default`"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:32
+#: ../../Manual/Wired-CCD/source/system.md:37
+msgid "Disable"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:40
+#: ../../Manual/Wired-CCD/source/system.md:46
+msgid "Medium Volume"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/system.md:49
+#: ../../Manual/Wired-CCD/source/system.md:54
+msgid "Low Volume"
+msgstr ""

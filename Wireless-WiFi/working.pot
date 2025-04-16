@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 18:26+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wireless-WiFi/source/working.md:1
+msgid "Working Mode"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:2
+msgid "In the working area outside the range of the 2.4G receiver or Bluetooth signal, you can activate the storage mode of the scanner by following the steps described below. In this mode, all scanned data will be stored directly in the scanner. Before uploading the data, it will be permanently saved in the scanner so that you can upload the data when the scanner is in the receiving signal range."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:5
+msgid "Normal Mode"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:10
+msgid "Normal Mode `Default`"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:14
+msgid "Set to normal mode, and data will be uploaded immediately after scanning."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:16
+#: ../../Manual/Wireless-WiFi/source/working.md:22
+msgid "Storage Mode"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:26
+msgid "Set the storage mode. After a successful scan, the data will not be uploaded immediately, but will be stored in the scanner."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:29
+msgid "Data Upload[^1]"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:35
+msgid "Data Upload"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:39
+msgid "Upload the data stored in the scanner."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:42
+#: ../../Manual/Wireless-WiFi/source/working.md:48
+msgid "Total Storage Quantity"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:52
+msgid "Check how many pieces of data are stored."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:54
+#: ../../Manual/Wireless-WiFi/source/working.md:60
+msgid "Clear Stored Barcode"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:64
+msgid "Clear the data stored in the scanner."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:66
+#: ../../Manual/Wireless-WiFi/source/working.md:72
+msgid "Disable Automatic Storage Mode"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:75
+msgid "Enable Automatic Storage Mode[^2]"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:83
+msgid "Enable Automatic Storage Mode"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:30
+msgid "During data uploading, scanning the \"Data Upload\" command again will cancel/stop data uploading."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/working.md:77
+msgid "In wireless transmission mode, when the automatic storage mode is turned on, the barcode will be automatically stored when the transmission fails, and the stored data can be obtained through \"Data Upload\"."
+msgstr ""

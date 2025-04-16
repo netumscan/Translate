@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 18:26+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:1
+msgid "Bluetooth Mode"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:3
+msgid "Scan the Bluetooth mode, then press the button to start, you can switch to Bluetooth transmission, turn on Bluetooth to search for devices for pairing, and after successful pairing, you can transmit data via Bluetooth."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:4
+msgid "Bluetooth name: `barcode scanner` or `NETUM Bluetooth`"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:5
+msgid "Switch to Bluetooth mode and the blue indicator light will light up."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:9
+msgid "The blue light means:   ①The blue light flashes, indicating that it is not connected.   ②The blue light is on, indicating it is connected."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:15
+msgid "Bluetooth HID"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:21
+msgid "Bluetooth HID `Default`"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:24
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:30
+msgid "Bluetooth SPP"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:33
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:39
+msgid "Bluetooth BLE"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:43
+msgid "Bluetooth SPP and Bluetooth BLE are modes used for software docking. If you need to search and pair through system Bluetooth, you need to use [Bluetooth HID](#bluetooth-hid)"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:45
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:51
+msgid "Clear Pairing Information"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:55
+msgid "Re-pair with a new device, or if pairing fails, scan the setup code to pair again."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:58
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:63
+msgid "IOS Popup/Hide Keyboard"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:67
+msgid "You can also press the scan button twice in a row to pop up/hide the keyboard without scanning the code. This function only supports Bluetooth pairing on iOS system."
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:70
+msgid "Bluetooth Keyboard Transmission Speed"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:77
+msgid "Get Bluetooth Keyboard Transmission Speed"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:79
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:85
+msgid "High Speed"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:88
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:94
+msgid "Medium Speed"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:97
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:102
+msgid "Low Speed"
+msgstr ""
+
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:105
+msgid "Modify Bluetooth Name"
+msgstr ""

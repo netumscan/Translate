@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 18:21+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wired-280/source/keyboard.md:1
+msgid "Keyboard Settings"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:2
+#: ../../Manual/Wired-280/source/keyboard.md:10
+msgid "Start Setup"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:4
+#: ../../Manual/Wired-280/source/keyboard.md:97
+msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:13
+msgid "Keyboard Language"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:15
+msgid "America"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:22
+msgid "America `Default`"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:25
+#: ../../Manual/Wired-280/source/keyboard.md:31
+msgid "Britain"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:34
+#: ../../Manual/Wired-280/source/keyboard.md:40
+msgid "France"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:44
+#: ../../Manual/Wired-280/source/keyboard.md:50
+msgid "Germany"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:54
+#: ../../Manual/Wired-280/source/keyboard.md:60
+msgid "Italy"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:64
+#: ../../Manual/Wired-280/source/keyboard.md:70
+msgid "Portugal"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:74
+#: ../../Manual/Wired-280/source/keyboard.md:80
+msgid "Spain"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:85
+#: ../../Manual/Wired-280/source/keyboard.md:91
+msgid "Turkey Q"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/keyboard.md:95
+#: ../../Manual/Wired-280/source/keyboard.md:104
+msgid "End Setup"
+msgstr ""
