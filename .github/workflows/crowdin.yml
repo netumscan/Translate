@@ -18,5 +18,5 @@ jobs:
           upload_translations: false
           download_translations: false
         env:
-          CROWDIN_PROJECT_ID: 781824
+          CROWDIN_PROJECT_ID: 781884
           CROWDIN_PERSONAL_TOKEN: 020563278045b433dadfdbefae4a228a7dc5635ac9a5c9ed906ac82931c03ebdcd921ff89004ff76
