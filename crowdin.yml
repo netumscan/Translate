@@ -1,0 +1,12 @@
+"project_id_env": "781824"
+"api_token_env": "020563278045b433dadfdbefae4a228a7dc5635ac9a5c9ed906ac82931c03ebdcd921ff89004ff76"
+"base_path": "."
+
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "/**/*.pot",
+    "translation": "/locales/%two_letters_code%/%original_file_name%"
+  }
+]
