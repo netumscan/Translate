@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 16:11+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Platform/source/codedelay.md:1
+msgid "Same Code Delay Settings"
+msgstr ""
+
+#: ../../Manual/Platform/source/codedelay.md:2
+msgid "To prevent the same barcode from being read multiple times in a row during scanning, you can set a time limit before allowing the same barcode to be read."
+msgstr ""
+
+#: ../../Manual/Platform/source/codedelay.md:4
+#: ../../Manual/Platform/source/codedelay.md:10
+msgid "0ms"
+msgstr ""
+
+#: ../../Manual/Platform/source/codedelay.md:13
+#: ../../Manual/Platform/source/codedelay.md:19
+msgid "500ms"
+msgstr ""
+
+#: ../../Manual/Platform/source/codedelay.md:22
+#: ../../Manual/Platform/source/codedelay.md:28
+msgid "3000ms"
+msgstr ""
+
+#: ../../Manual/Platform/source/codedelay.md:31
+#: ../../Manual/Platform/source/codedelay.md:37
+msgid "Disable Same Code Scanning"
+msgstr ""
