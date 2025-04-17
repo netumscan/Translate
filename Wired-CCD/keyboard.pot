@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 18:24+0800\n"
+"POT-Creation-Date: 2025-04-17 10:01+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: ../../Manual/Wired-CCD/source/keyboard.md:219
 #: ../../Manual/Wired-CCD/source/keyboard.md:225
-msgid "Japan"
+msgid "Japanese"
 msgstr ""
 
 #: ../../Manual/Wired-CCD/source/keyboard.md:228

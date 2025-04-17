@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 18:19+0800\n"
+"POT-Creation-Date: 2025-04-17 10:01+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -166,7 +166,7 @@ msgstr ""
 
 #: ../../Manual/Wired-212/source/keyboard.md:240
 #: ../../Manual/Wired-212/source/keyboard.md:246
-msgid "Japan"
+msgid "Japanese"
 msgstr ""
 
 #: ../../Manual/Wired-212/source/keyboard.md:249
@@ -176,7 +176,7 @@ msgstr ""
 
 #: ../../Manual/Wired-212/source/keyboard.md:258
 #: ../../Manual/Wired-212/source/keyboard.md:264
-msgid "Thailand"
+msgid "Thai"
 msgstr ""
 
 #: ../../Manual/Wired-212/source/keyboard.md:267
