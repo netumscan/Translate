@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-17 10:01+0800\n"
+"POT-Creation-Date: 2025-04-17 10:10+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -183,12 +183,12 @@ msgstr ""
 
 #: ../../Manual/Wired-HS7/source/keyboard.md:285
 #: ../../Manual/Wired-HS7/source/keyboard.md:291
-msgid "Turkey F"
+msgid "Turkey-F"
 msgstr ""
 
 #: ../../Manual/Wired-HS7/source/keyboard.md:294
 #: ../../Manual/Wired-HS7/source/keyboard.md:300
-msgid "Turkey Q"
+msgid "Turkey-Q"
 msgstr ""
 
 #: ../../Manual/Wired-HS7/source/keyboard.md:303
