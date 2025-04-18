@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 18:07+0800\n"
+"POT-Creation-Date: 2025-04-18 09:59+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,7 @@ msgid "Switch to Bluetooth mode and the blue indicator light will light up."
 msgstr ""
 
 #: ../../Manual/Wireless/source/bluetooth.md:16
-msgid "The blue light means:   ①The blue light flashes, indicating that it is not connected.   ②The blue light is on, indicating it is connected."
+msgid "The blue light means:\\ ①The blue light flashes, indicating that it is not connected.\\ ②The blue light is on, indicating it is connected."
 msgstr ""
 
 #: ../../Manual/Wireless/source/bluetooth.md:22

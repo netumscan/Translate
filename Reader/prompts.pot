@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 18:18+0800\n"
+"POT-Creation-Date: 2025-04-18 09:59+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgid "Start Setup"
 msgstr ""
 
 #: ../../Manual/Reader/source/prompts.md:13
-#: ../../Manual/Reader/source/prompts.md:108
+#: ../../Manual/Reader/source/prompts.md:107
 msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
 msgstr ""
 
@@ -63,7 +63,7 @@ msgid "Payment Success Voice Solution 1"
 msgstr ""
 
 #: ../../Manual/Reader/source/prompts.md:67
-msgid "Payment successful, please wait   Ding Dong"
+msgid "Payment successful, please wait\\ Ding Dong"
 msgstr ""
 
 #: ../../Manual/Reader/source/prompts.md:71
@@ -71,7 +71,7 @@ msgid "Payment Success Voice Solution 2"
 msgstr ""
 
 #: ../../Manual/Reader/source/prompts.md:77
-msgid "WeChat payment successful   Alipay payment successful   UnionPay  payment successful   Scan Successfully"
+msgid "WeChat payment successful\\ Alipay payment successful\\ UnionPay  payment successful\\ Scan Successfully"
 msgstr ""
 
 #: ../../Manual/Reader/source/prompts.md:83
@@ -79,10 +79,10 @@ msgid "Welcome Use Voice Solution"
 msgstr ""
 
 #: ../../Manual/Reader/source/prompts.md:89
-msgid "Welcome to WeChat Pay   Welcome to Alipay   Welcome to UnionPay   Ding Dong"
+msgid "Welcome to WeChat Pay\\ Welcome to Alipay\\ Welcome to UnionPay\\ Ding Dong"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:98
-#: ../../Manual/Reader/source/prompts.md:104
+#: ../../Manual/Reader/source/prompts.md:97
+#: ../../Manual/Reader/source/prompts.md:103
 msgid "End Setup"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 18:07+0800\n"
+"POT-Creation-Date: 2025-04-18 09:59+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,7 +107,7 @@ msgid "Battery Information"
 msgstr ""
 
 #: ../../Manual/Wireless/source/system.md:127
-msgid "*Get the meaning of the voltage in the power upload data*   ≥4.2V: Fully powered.   ≤3.7V: The battery is low and the device will beep twice when you scan the code, indicating that it needs to be charged (it can still be used normally).   ≤3.5V: The battery is low and the button will beep five times, indicating that the battery needs to be charged before use."
+msgid "*Get the meaning of the voltage in the power upload data*\\ ≥4.2V: Fully powered.\\ ≤3.7V: The battery is low and the device will beep twice when you scan the code, indicating that it needs to be charged (it can still be used normally).\\ ≤3.5V: The battery is low and the button will beep five times, indicating that the battery needs to be charged before use."
 msgstr ""
 
 #: ../../Manual/Wireless/source/system.md:133
