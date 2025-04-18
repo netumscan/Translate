@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-18 09:59+0800\n"
+"POT-Creation-Date: 2025-04-18 14:43+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,43 +107,43 @@ msgid "Battery Information"
 msgstr ""
 
 #: ../../Manual/Wireless/source/system.md:127
-msgid "*Get the meaning of the voltage in the power upload data*\\ ≥4.2V: Fully powered.\\ ≤3.7V: The battery is low and the device will beep twice when you scan the code, indicating that it needs to be charged (it can still be used normally).\\ ≤3.5V: The battery is low and the button will beep five times, indicating that the battery needs to be charged before use."
+msgid "*Get the meaning of the voltage in the power upload data*<br>≥4.2V: Fully powered.<br>≤3.7V: The battery is low and the device will beep twice when you scan the code, indicating that it needs to be charged (it can still be used normally).<br> ≤3.5V: The battery is low and the button will beep five times, indicating that the battery needs to be charged before use."
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:133
+#: ../../Manual/Wireless/source/system.md:131
 msgid "Sleep Time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:135
+#: ../../Manual/Wireless/source/system.md:133
 msgid "By scanning the following setting code, you can set the scanner to enter sleep mode after a certain period of time when no code is scanned, so as to reduce power consumption."
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:139
-#: ../../Manual/Wireless/source/system.md:145
+#: ../../Manual/Wireless/source/system.md:137
+#: ../../Manual/Wireless/source/system.md:143
 msgid "Shutdown"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:148
-#: ../../Manual/Wireless/source/system.md:154
+#: ../../Manual/Wireless/source/system.md:146
+#: ../../Manual/Wireless/source/system.md:152
 msgid "Sleep after 1 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:157
-#: ../../Manual/Wireless/source/system.md:163
+#: ../../Manual/Wireless/source/system.md:155
+#: ../../Manual/Wireless/source/system.md:161
 msgid "Sleep after 3 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:166
-#: ../../Manual/Wireless/source/system.md:172
+#: ../../Manual/Wireless/source/system.md:164
+#: ../../Manual/Wireless/source/system.md:170
 msgid "Sleep after 10 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:175
-#: ../../Manual/Wireless/source/system.md:181
+#: ../../Manual/Wireless/source/system.md:173
+#: ../../Manual/Wireless/source/system.md:179
 msgid "Sleep after 30 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:184
-#: ../../Manual/Wireless/source/system.md:190
+#: ../../Manual/Wireless/source/system.md:182
+#: ../../Manual/Wireless/source/system.md:188
 msgid "No sleep"
 msgstr ""

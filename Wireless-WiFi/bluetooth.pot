@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-18 09:59+0800\n"
+"POT-Creation-Date: 2025-04-18 14:43+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,72 +33,72 @@ msgid "Switch to Bluetooth mode and the blue indicator light will light up."
 msgstr ""
 
 #: ../../Manual/Wireless-WiFi/source/bluetooth.md:9
-msgid "The blue light means:\\ ①The blue light flashes, indicating that it is not connected.\\ ②The blue light is on, indicating it is connected."
+msgid "The blue light means:<br>①The blue light flashes, indicating that it is not connected.<br>②The blue light is on, indicating it is connected."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:15
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:13
 msgid "Bluetooth HID"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:21
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:19
 msgid "Bluetooth HID `Default`"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:24
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:30
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:22
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:28
 msgid "Bluetooth SPP"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:33
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:39
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:31
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:37
 msgid "Bluetooth BLE"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:43
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:41
 msgid "Bluetooth SPP and Bluetooth BLE are modes used for software docking. If you need to search and pair through system Bluetooth, you need to use [Bluetooth HID](#bluetooth-hid)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:45
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:51
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:43
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:49
 msgid "Clear Pairing Information"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:55
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:53
 msgid "Re-pair with a new device, or if pairing fails, scan the setup code to pair again."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:58
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:63
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:56
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:61
 msgid "IOS Popup/Hide Keyboard"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:67
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:65
 msgid "You can also press the scan button twice in a row to pop up/hide the keyboard without scanning the code. This function only supports Bluetooth pairing on iOS system."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:70
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:68
 msgid "Bluetooth Keyboard Transmission Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:77
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:75
 msgid "Get Bluetooth Keyboard Transmission Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:79
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:85
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:77
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:83
 msgid "High Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:88
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:94
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:86
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:92
 msgid "Medium Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:97
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:102
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:95
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:100
 msgid "Low Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:105
+#: ../../Manual/Wireless-WiFi/source/bluetooth.md:103
 msgid "Modify Bluetooth Name"
 msgstr ""
