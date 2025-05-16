@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 18:19+0800\n"
+"POT-Creation-Date: 2025-05-16 14:58+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,37 +17,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../Manual/Wired-212/source/character.md:1
+msgid "Character"
+msgstr ""
+
+#: ../../Manual/Wired-212/source/character.md:3
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:2
+#: ../../Manual/Wired-212/source/character.md:4
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:4
-#: ../../Manual/Wired-212/source/character.md:10
+#: ../../Manual/Wired-212/source/character.md:6
+#: ../../Manual/Wired-212/source/character.md:12
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:14
-#: ../../Manual/Wired-212/source/character.md:20
+#: ../../Manual/Wired-212/source/character.md:16
+#: ../../Manual/Wired-212/source/character.md:22
 msgid "Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:24
+#: ../../Manual/Wired-212/source/character.md:26
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:30
+#: ../../Manual/Wired-212/source/character.md:32
 msgid "Enter(CR) `Default`"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:34
-#: ../../Manual/Wired-212/source/character.md:40
+#: ../../Manual/Wired-212/source/character.md:36
+#: ../../Manual/Wired-212/source/character.md:42
 msgid "Tab(TAB)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:44
-#: ../../Manual/Wired-212/source/character.md:50
+#: ../../Manual/Wired-212/source/character.md:46
+#: ../../Manual/Wired-212/source/character.md:52
 msgid "Enter+Enter(CRCR)"
 msgstr ""

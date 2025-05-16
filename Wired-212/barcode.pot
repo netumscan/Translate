@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 18:19+0800\n"
+"POT-Creation-Date: 2025-05-16 14:58+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,43 +17,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../Manual/Wired-212/source/barcode.md:1
-msgid "Barcode Settings"
+msgid "Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/barcode.md:2
-#: ../../Manual/Wired-212/source/barcode.md:8
-msgid "Disable Scanning 1D Codes"
+#: ../../Manual/Wired-212/source/barcode.md:3
+#: ../../Manual/Wired-212/source/barcode.md:9
+msgid "Disable All Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/barcode.md:11
-#: ../../Manual/Wired-212/source/barcode.md:17
-msgid "Enable Scanning 1D Codes"
+#: ../../Manual/Wired-212/source/barcode.md:12
+#: ../../Manual/Wired-212/source/barcode.md:18
+msgid "Enable All Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/barcode.md:20
-#: ../../Manual/Wired-212/source/barcode.md:26
-msgid "Disable Scanning 2D Codes"
+#: ../../Manual/Wired-212/source/barcode.md:21
+#: ../../Manual/Wired-212/source/barcode.md:27
+msgid "Disable 1D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/barcode.md:29
-#: ../../Manual/Wired-212/source/barcode.md:35
-msgid "Enable Scanning 2D Codes"
-msgstr ""
-
-#: ../../Manual/Wired-212/source/barcode.md:38
-msgid "QR Code URL Settings"
+#: ../../Manual/Wired-212/source/barcode.md:30
+#: ../../Manual/Wired-212/source/barcode.md:36
+msgid "Enable 1D Symbologies"
 msgstr ""
 
 #: ../../Manual/Wired-212/source/barcode.md:39
+#: ../../Manual/Wired-212/source/barcode.md:45
+msgid "Disable 2D Symbologies"
+msgstr ""
+
+#: ../../Manual/Wired-212/source/barcode.md:48
+#: ../../Manual/Wired-212/source/barcode.md:54
+msgid "Enable 2D Symbologies"
+msgstr ""
+
+#: ../../Manual/Wired-212/source/barcode.md:57
+msgid "QR Code URL Settings"
+msgstr ""
+
+#: ../../Manual/Wired-212/source/barcode.md:58
 msgid "Block scanning of URL QR codes starting with `http://`, `https://`"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/barcode.md:41
-#: ../../Manual/Wired-212/source/barcode.md:46
+#: ../../Manual/Wired-212/source/barcode.md:60
+#: ../../Manual/Wired-212/source/barcode.md:65
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/barcode.md:49
-#: ../../Manual/Wired-212/source/barcode.md:54
+#: ../../Manual/Wired-212/source/barcode.md:68
+#: ../../Manual/Wired-212/source/barcode.md:73
 msgid "Enable"
 msgstr ""
