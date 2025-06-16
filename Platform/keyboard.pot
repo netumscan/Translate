@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgid "Normal"
 msgstr ""
 
 #: ../../Manual/Platform/source/keyboard.md:11
-msgid "Normal `Default`"
+msgid "`*` Normal"
 msgstr ""
 
 #: ../../Manual/Platform/source/keyboard.md:14
@@ -73,7 +73,7 @@ msgid "GBK"
 msgstr ""
 
 #: ../../Manual/Platform/source/keyboard.md:59
-msgid "GBK `Default`"
+msgid "`*` GBK"
 msgstr ""
 
 #: ../../Manual/Platform/source/keyboard.md:62

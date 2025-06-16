@@ -1,0 +1,399 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:1
+msgid "Symbologies"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:3
+msgid "Reverse Symbologies"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:10
+#: ../../Manual/Wireless/source/ccd/barcode.md:145
+#: ../../Manual/Wireless/source/ccd/barcode.md:253
+#: ../../Manual/Wireless/source/ccd/barcode.md:270
+#: ../../Manual/Wireless/source/ccd/barcode.md:379
+#: ../../Manual/Wireless/source/ccd/barcode.md:474
+#: ../../Manual/Wireless/source/ccd/barcode.md:508
+#: ../../Manual/Wireless/source/ccd/barcode.md:576
+#: ../../Manual/Wireless/source/ccd/barcode.md:592
+#: ../../Manual/Wireless/source/ccd/barcode.md:608
+#: ../../Manual/Wireless/source/ccd/barcode.md:624
+#: ../../Manual/Wireless/source/ccd/barcode.md:641
+#: ../../Manual/Wireless/source/ccd/barcode.md:658
+#: ../../Manual/Wireless/source/ccd/barcode.md:709
+#: ../../Manual/Wireless/source/ccd/barcode.md:743
+#: ../../Manual/Wireless/source/ccd/barcode.md:759
+#: ../../Manual/Wireless/source/ccd/barcode.md:778
+#: ../../Manual/Wireless/source/ccd/barcode.md:797
+#: ../../Manual/Wireless/source/ccd/barcode.md:815
+#: ../../Manual/Wireless/source/ccd/barcode.md:849
+#: ../../Manual/Wireless/source/ccd/barcode.md:874
+#: ../../Manual/Wireless/source/ccd/barcode.md:919
+#: ../../Manual/Wireless/source/ccd/barcode.md:946
+#: ../../Manual/Wireless/source/ccd/barcode.md:964
+#: ../../Manual/Wireless/source/ccd/barcode.md:980
+#: ../../Manual/Wireless/source/ccd/barcode.md:996
+#: ../../Manual/Wireless/source/ccd/barcode.md:1023
+msgid "Enable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:18
+#: ../../Manual/Wireless/source/ccd/barcode.md:77
+#: ../../Manual/Wireless/source/ccd/barcode.md:138
+#: ../../Manual/Wireless/source/ccd/barcode.md:203
+#: ../../Manual/Wireless/source/ccd/barcode.md:246
+#: ../../Manual/Wireless/source/ccd/barcode.md:263
+#: ../../Manual/Wireless/source/ccd/barcode.md:330
+#: ../../Manual/Wireless/source/ccd/barcode.md:372
+#: ../../Manual/Wireless/source/ccd/barcode.md:425
+#: ../../Manual/Wireless/source/ccd/barcode.md:467
+#: ../../Manual/Wireless/source/ccd/barcode.md:501
+#: ../../Manual/Wireless/source/ccd/barcode.md:569
+#: ../../Manual/Wireless/source/ccd/barcode.md:585
+#: ../../Manual/Wireless/source/ccd/barcode.md:601
+#: ../../Manual/Wireless/source/ccd/barcode.md:617
+#: ../../Manual/Wireless/source/ccd/barcode.md:634
+#: ../../Manual/Wireless/source/ccd/barcode.md:651
+#: ../../Manual/Wireless/source/ccd/barcode.md:702
+#: ../../Manual/Wireless/source/ccd/barcode.md:736
+#: ../../Manual/Wireless/source/ccd/barcode.md:752
+#: ../../Manual/Wireless/source/ccd/barcode.md:771
+#: ../../Manual/Wireless/source/ccd/barcode.md:790
+#: ../../Manual/Wireless/source/ccd/barcode.md:808
+#: ../../Manual/Wireless/source/ccd/barcode.md:842
+#: ../../Manual/Wireless/source/ccd/barcode.md:867
+#: ../../Manual/Wireless/source/ccd/barcode.md:912
+#: ../../Manual/Wireless/source/ccd/barcode.md:939
+#: ../../Manual/Wireless/source/ccd/barcode.md:957
+#: ../../Manual/Wireless/source/ccd/barcode.md:973
+#: ../../Manual/Wireless/source/ccd/barcode.md:989
+#: ../../Manual/Wireless/source/ccd/barcode.md:1016
+msgid "`*` Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:21
+msgid "EAN-8"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:23
+#: ../../Manual/Wireless/source/ccd/barcode.md:115
+#: ../../Manual/Wireless/source/ccd/barcode.md:276
+#: ../../Manual/Wireless/source/ccd/barcode.md:386
+#: ../../Manual/Wireless/source/ccd/barcode.md:479
+#: ../../Manual/Wireless/source/ccd/barcode.md:514
+#: ../../Manual/Wireless/source/ccd/barcode.md:532
+#: ../../Manual/Wireless/source/ccd/barcode.md:680
+#: ../../Manual/Wireless/source/ccd/barcode.md:714
+#: ../../Manual/Wireless/source/ccd/barcode.md:765
+#: ../../Manual/Wireless/source/ccd/barcode.md:784
+#: ../../Manual/Wireless/source/ccd/barcode.md:802
+#: ../../Manual/Wireless/source/ccd/barcode.md:820
+#: ../../Manual/Wireless/source/ccd/barcode.md:879
+#: ../../Manual/Wireless/source/ccd/barcode.md:906
+#: ../../Manual/Wireless/source/ccd/barcode.md:933
+#: ../../Manual/Wireless/source/ccd/barcode.md:951
+#: ../../Manual/Wireless/source/ccd/barcode.md:1010
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:29
+#: ../../Manual/Wireless/source/ccd/barcode.md:45
+#: ../../Manual/Wireless/source/ccd/barcode.md:61
+#: ../../Manual/Wireless/source/ccd/barcode.md:121
+#: ../../Manual/Wireless/source/ccd/barcode.md:170
+#: ../../Manual/Wireless/source/ccd/barcode.md:186
+#: ../../Manual/Wireless/source/ccd/barcode.md:282
+#: ../../Manual/Wireless/source/ccd/barcode.md:298
+#: ../../Manual/Wireless/source/ccd/barcode.md:314
+#: ../../Manual/Wireless/source/ccd/barcode.md:392
+#: ../../Manual/Wireless/source/ccd/barcode.md:408
+#: ../../Manual/Wireless/source/ccd/barcode.md:485
+#: ../../Manual/Wireless/source/ccd/barcode.md:520
+#: ../../Manual/Wireless/source/ccd/barcode.md:538
+#: ../../Manual/Wireless/source/ccd/barcode.md:554
+#: ../../Manual/Wireless/source/ccd/barcode.md:686
+#: ../../Manual/Wireless/source/ccd/barcode.md:720
+#: ../../Manual/Wireless/source/ccd/barcode.md:826
+#: ../../Manual/Wireless/source/ccd/barcode.md:885
+msgid "Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:36
+#: ../../Manual/Wireless/source/ccd/barcode.md:52
+#: ../../Manual/Wireless/source/ccd/barcode.md:68
+#: ../../Manual/Wireless/source/ccd/barcode.md:128
+#: ../../Manual/Wireless/source/ccd/barcode.md:177
+#: ../../Manual/Wireless/source/ccd/barcode.md:193
+#: ../../Manual/Wireless/source/ccd/barcode.md:289
+#: ../../Manual/Wireless/source/ccd/barcode.md:305
+#: ../../Manual/Wireless/source/ccd/barcode.md:321
+#: ../../Manual/Wireless/source/ccd/barcode.md:399
+#: ../../Manual/Wireless/source/ccd/barcode.md:415
+#: ../../Manual/Wireless/source/ccd/barcode.md:492
+#: ../../Manual/Wireless/source/ccd/barcode.md:527
+#: ../../Manual/Wireless/source/ccd/barcode.md:545
+#: ../../Manual/Wireless/source/ccd/barcode.md:561
+#: ../../Manual/Wireless/source/ccd/barcode.md:693
+#: ../../Manual/Wireless/source/ccd/barcode.md:727
+#: ../../Manual/Wireless/source/ccd/barcode.md:833
+#: ../../Manual/Wireless/source/ccd/barcode.md:892
+msgid "`*` Enable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:39
+#: ../../Manual/Wireless/source/ccd/barcode.md:164
+#: ../../Manual/Wireless/source/ccd/barcode.md:292
+#: ../../Manual/Wireless/source/ccd/barcode.md:402
+#: ../../Manual/Wireless/source/ccd/barcode.md:548
+#: ../../Manual/Wireless/source/ccd/barcode.md:967
+msgid "Transmit Check Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:55
+#: ../../Manual/Wireless/source/ccd/barcode.md:180
+#: ../../Manual/Wireless/source/ccd/barcode.md:308
+msgid "Transmit System Characters"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:71
+#: ../../Manual/Wireless/source/ccd/barcode.md:197
+#: ../../Manual/Wireless/source/ccd/barcode.md:324
+#: ../../Manual/Wireless/source/ccd/barcode.md:419
+msgid "Add-On Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:84
+#: ../../Manual/Wireless/source/ccd/barcode.md:210
+#: ../../Manual/Wireless/source/ccd/barcode.md:337
+#: ../../Manual/Wireless/source/ccd/barcode.md:432
+msgid "Enable 2-Digit Add-On Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:91
+#: ../../Manual/Wireless/source/ccd/barcode.md:217
+#: ../../Manual/Wireless/source/ccd/barcode.md:344
+#: ../../Manual/Wireless/source/ccd/barcode.md:439
+msgid "Enable 5-Digit Add-On Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:98
+#: ../../Manual/Wireless/source/ccd/barcode.md:224
+#: ../../Manual/Wireless/source/ccd/barcode.md:351
+#: ../../Manual/Wireless/source/ccd/barcode.md:446
+msgid "Enable 2-Digit And 5-Digit Additional Codes"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:105
+#: ../../Manual/Wireless/source/ccd/barcode.md:231
+#: ../../Manual/Wireless/source/ccd/barcode.md:358
+#: ../../Manual/Wireless/source/ccd/barcode.md:453
+msgid "Force Enable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:109
+#: ../../Manual/Wireless/source/ccd/barcode.md:235
+#: ../../Manual/Wireless/source/ccd/barcode.md:362
+#: ../../Manual/Wireless/source/ccd/barcode.md:457
+msgid "`Disable`:When the scanner scans a barcode with an additional code, it decodes the barcode and ignores the additional code. The scanner can also decode barcodes without the additional code."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:110
+#: ../../Manual/Wireless/source/ccd/barcode.md:236
+#: ../../Manual/Wireless/source/ccd/barcode.md:363
+#: ../../Manual/Wireless/source/ccd/barcode.md:458
+msgid "`Force Enable`:Scanner only decodes mixed barcodes with additional codes."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:113
+msgid "EAN-13"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:131
+msgid "UPC/EAN Multiple Verification"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:148
+msgid "UPC/EAN Security Level"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:154
+msgid "`*` 0"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:161
+msgid "1"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:239
+msgid "EAN-13 To ISBN"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:240
+msgid "ISBN is a book code, which normally outputs 13 digits. When the EAN-13 to ISBN conversion is turned on, the output is a 10-digit ISBN code."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:256
+msgid "EAN-13 To ISSN"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:257
+msgid "ISSN is a magazine code, which normally outputs 13 digits. When the EAN-13 to ISBN conversion is turned on, the output is a 10-digit ISSN code."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:273
+msgid "UPC-A"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:366
+msgid "UPC-A To EAN-13"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:383
+msgid "UPC-E"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:461
+msgid "UPC-E To UPC-A"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:477
+msgid "Codabar"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:495
+#: ../../Manual/Wireless/source/ccd/barcode.md:595
+msgid "Start And Stop Characters"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:511
+msgid "Code 11"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:529
+msgid "Code 39"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:564
+msgid "MOD43 Check"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:579
+#: ../../Manual/Wireless/source/ccd/barcode.md:696
+#: ../../Manual/Wireless/source/ccd/barcode.md:730
+#: ../../Manual/Wireless/source/ccd/barcode.md:836
+#: ../../Manual/Wireless/source/ccd/barcode.md:983
+msgid "Multiple Verification"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:596
+msgid "The barcode data is preceded and followed by a \"*\" character as the start and stop characters. You can set whether to transmit the start and stop characters together with the barcode data after the barcode is read successfully."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:611
+msgid "Full ASCII Support"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:627
+msgid "Code 32 Setting"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:644
+msgid "Code32 Prefix A"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:661
+msgid "Set Minimum Length"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:667
+msgid "Set Minimum Length to 1"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:674
+msgid "`*` Set Minimum Length to 2"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:677
+msgid "Code 93"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:712
+msgid "Code 128"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:746
+#: ../../Manual/Wireless/source/ccd/barcode.md:861
+msgid "Brazilian Bank Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:762
+msgid "GS1 DataBar Limited（RSS Limited）"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:781
+msgid "GS1 DataBar Omnidirectional（RSS Omnidirectional）"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:800
+msgid "GS1 DataBar Expanded (RSS Expanded)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:818
+msgid "Interleaved 2 of 5"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:852
+#: ../../Manual/Wireless/source/ccd/barcode.md:858
+msgid "Set Minimum Length To 4"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:877
+msgid "Industrial 2 of 5"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:895
+#: ../../Manual/Wireless/source/ccd/barcode.md:901
+#: ../../Manual/Wireless/source/ccd/barcode.md:999
+#: ../../Manual/Wireless/source/ccd/barcode.md:1005
+#: ../../Manual/Wireless/source/ccd/barcode.md:1027
+#: ../../Manual/Wireless/source/ccd/barcode.md:1033
+msgid "Set Minimum Length To 3"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:904
+msgid "Matrix 2 of 5"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:922
+#: ../../Manual/Wireless/source/ccd/barcode.md:928
+msgid "Set Minimum Length To 2"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:931
+msgid "China Post"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:949
+msgid "MSI"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/barcode.md:1008
+msgid "Plessey/Telepen"
+msgstr ""

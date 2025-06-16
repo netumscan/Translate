@@ -1,0 +1,446 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wireless/source/212/character.md:1
+msgid "Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:3
+msgid "End Character Settings"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:4
+msgid "The end character is added after the decoded data in the format of decoded data + end character."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:6
+#: ../../Manual/Wireless/source/212/character.md:12
+msgid "No End Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:16
+#: ../../Manual/Wireless/source/212/character.md:22
+msgid "Enter+New Line(CRLF)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:26
+msgid "Enter(CR)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:32
+msgid "`*` Enter(CR)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:36
+#: ../../Manual/Wireless/source/212/character.md:42
+msgid "Tab(TAB)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:46
+#: ../../Manual/Wireless/source/212/character.md:52
+msgid "Enter+Enter(CRCR)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:56
+msgid "Transmit Code ID Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:57
+msgid "A code ID character identifies the code type of a scanned bar code. This can be useful when decoding more than one code type. The code ID character is inserted between the prefix character (if selected) and the decoded symbol."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:64
+msgid "`*` None"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:71
+msgid "AIM ID"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:78
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "Code ID"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:81
+#: ../../Manual/Wireless/source/212/character.md:83
+#: ../../Manual/Wireless/source/212/character.md:135
+msgid "Code ID Identifiers"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Barcode Type"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Code 128"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "D"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "GS1-128(UCC/EAN-128)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "K"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "AIM 128"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "ISBT-128"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "EAN-8"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "A"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "EAN-13"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "ISSN"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "L"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "ISBN/Bookland EAN"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "UPC-E"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "UPC-A"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Interleaved 2 of 5/ITF"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "F"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "ITF-14"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Deutsche Post 14"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "w"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Deutsche Post 12"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "l"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "NEC-25(COOP 2 of 5)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "o"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Matrix 2 of 5"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "V"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Industrial 2 of 5/Discrete 2 of 5/IND25"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "G"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Standard 2 of 5 (IATA 25)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Code 39"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "B"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Code 93"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "E"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Codabar"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "C"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Code 11"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "H"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Plessey"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "J"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "MSI-Plessey"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "GS1-DataBar（ RSS）"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "R"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "PDF417"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "r"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "QR"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "q"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "AZTEC(Aztec Code)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "a"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "DM(DataMatrix)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "u"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "MaxiCode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "x"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Han Xin Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "c"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "Code 32"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "Trioptic Code 39"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "M"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "Coupon Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "N"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "GS1 DataBar-14"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "GS1 DataBar Limited"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "GS1 DataBar Expanded"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "SETUP128"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "S"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "Veri Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:87
+msgid "v"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:129
+msgid "AIM Code Identifiers"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:130
+msgid "Each AIM Code Identifier contains the three-character string ]cm where: <br>"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:131
+msgid "] = Flag Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:132
+msgid "c =Code Character (see table)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:133
+msgid "m= Modifier Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Code Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "X"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "I"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "P"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "e"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "Q"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "z"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "d"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/character.md:139
+msgid "U"
+msgstr ""

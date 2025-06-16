@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,30 +17,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../Manual/Wired-HS7/source/barcode.md:1
-msgid "Barcode Settings"
+msgid "Symbologies"
 msgstr ""
 
 #: ../../Manual/Wired-HS7/source/barcode.md:3
+msgid "1D Symbologies"
+msgstr ""
+
 #: ../../Manual/Wired-HS7/source/barcode.md:9
-msgid "Disable All 1D Codes"
+#: ../../Manual/Wired-HS7/source/barcode.md:26
+#: ../../Manual/Wired-HS7/source/barcode.md:73
+#: ../../Manual/Wired-HS7/source/barcode.md:78
+msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:12
-#: ../../Manual/Wired-HS7/source/barcode.md:18
-msgid "Enable All 1D Codes"
+#: ../../Manual/Wired-HS7/source/barcode.md:17
+#: ../../Manual/Wired-HS7/source/barcode.md:34
+#: ../../Manual/Wired-HS7/source/barcode.md:81
+#: ../../Manual/Wired-HS7/source/barcode.md:86
+msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:21
-#: ../../Manual/Wired-HS7/source/barcode.md:27
-msgid "Disable All 2D Codes"
+#: ../../Manual/Wired-HS7/source/barcode.md:20
+msgid "2D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:30
-#: ../../Manual/Wired-HS7/source/barcode.md:36
-msgid "Enable All 2D Codes"
-msgstr ""
-
-#: ../../Manual/Wired-HS7/source/barcode.md:39
+#: ../../Manual/Wired-HS7/source/barcode.md:37
 msgid "Reversal Barcode Settings"
 msgstr ""
 
@@ -64,19 +66,9 @@ msgid "If the scanner is configured as [Only Supports Reversal Barcode](#only-su
 msgstr ""
 
 #: ../../Manual/Wired-HS7/source/barcode.md:70
-msgid "QR Code URL Settings"
+msgid "Block Barcodes With URLs"
 msgstr ""
 
 #: ../../Manual/Wired-HS7/source/barcode.md:71
 msgid "Block scanning of URL QR codes starting with `http://`, `https://`"
-msgstr ""
-
-#: ../../Manual/Wired-HS7/source/barcode.md:73
-#: ../../Manual/Wired-HS7/source/barcode.md:78
-msgid "Disable"
-msgstr ""
-
-#: ../../Manual/Wired-HS7/source/barcode.md:81
-#: ../../Manual/Wired-HS7/source/barcode.md:86
-msgid "Enable"
 msgstr ""

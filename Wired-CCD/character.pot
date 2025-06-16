@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,42 +17,327 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../Manual/Wired-CCD/source/character.md:1
+msgid "Character"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:3
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:2
+#: ../../Manual/Wired-CCD/source/character.md:4
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:4
-#: ../../Manual/Wired-CCD/source/character.md:10
+#: ../../Manual/Wired-CCD/source/character.md:6
+#: ../../Manual/Wired-CCD/source/character.md:12
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:14
-#: ../../Manual/Wired-CCD/source/character.md:20
+#: ../../Manual/Wired-CCD/source/character.md:16
+#: ../../Manual/Wired-CCD/source/character.md:22
 msgid "Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:24
+#: ../../Manual/Wired-CCD/source/character.md:26
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:30
-msgid "Enter(CR) `Default`"
+#: ../../Manual/Wired-CCD/source/character.md:32
+msgid "`*` Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:34
-#: ../../Manual/Wired-CCD/source/character.md:40
+#: ../../Manual/Wired-CCD/source/character.md:36
+#: ../../Manual/Wired-CCD/source/character.md:42
 msgid "New Line(LF)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:44
-#: ../../Manual/Wired-CCD/source/character.md:50
+#: ../../Manual/Wired-CCD/source/character.md:46
+#: ../../Manual/Wired-CCD/source/character.md:52
 msgid "Tab(TAB)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:54
-#: ../../Manual/Wired-CCD/source/character.md:60
+#: ../../Manual/Wired-CCD/source/character.md:56
+#: ../../Manual/Wired-CCD/source/character.md:62
 msgid "Enter+Enter(CRCR)"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:66
+msgid "Transmit Code ID Character"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:67
+msgid "A code ID character identifies the code type of a scanned bar code. This can be useful when decoding more than one code type. The code ID character is inserted between the prefix character (if selected) and the decoded symbol."
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:74
+msgid "`*` None"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:81
+msgid "Enable Code ID (Prefix)"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:88
+msgid "Enable Code ID (Suffix)"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:92
+#: ../../Manual/Wired-CCD/source/character.md:94
+msgid "Code ID Identifiers"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Code ID"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Type"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Symbologies"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "00/01"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "All Barcodes"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "A"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "02"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "CODE 128"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "C"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "03"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "EAN 8"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "D"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "04"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "EAN 13"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "05"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "ISBN"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "E"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "06"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "UPC-A"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "F"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "07"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "UPC-E"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "I"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "08"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "CODE 93"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "J"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "09"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "GS1 Omnidirectional"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "K"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "10"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "GS1 Limited"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "L"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "11"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "GS1 Expanded"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "M"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "12"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "CODE 39"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "N"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "13"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Interleaved 2 of 5"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "O"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "14"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Industrial 2 of 5"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "P"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "15"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "China post"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Q"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "16"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Matrix 2 of 5"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "S"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "17"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "MSI"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "T"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "18"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "PLESSEY"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "t"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "19"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "TELEPEN"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "U"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "20"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "CODE 11"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "V"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "21"
+msgstr ""
+
+#: ../../Manual/Wired-CCD/source/character.md:99
+msgid "Codebar"
 msgstr ""

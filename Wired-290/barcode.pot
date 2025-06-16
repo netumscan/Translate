@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../Manual/Wired-290/source/barcode.md:1
-msgid "Barcode Settings"
+msgid "Symbologies"
 msgstr ""
 
 #: ../../Manual/Wired-290/source/barcode.md:4
@@ -26,31 +26,29 @@ msgid "Start Setup"
 msgstr ""
 
 #: ../../Manual/Wired-290/source/barcode.md:6
-#: ../../Manual/Wired-290/source/barcode.md:55
+#: ../../Manual/Wired-290/source/barcode.md:52
 msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
 msgstr ""
 
 #: ../../Manual/Wired-290/source/barcode.md:16
+msgid "1D Symbologies"
+msgstr ""
+
 #: ../../Manual/Wired-290/source/barcode.md:22
-msgid "Enable All 1D Codes"
+#: ../../Manual/Wired-290/source/barcode.md:38
+msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:25
-#: ../../Manual/Wired-290/source/barcode.md:31
-msgid "Disable All 1D Codes"
+#: ../../Manual/Wired-290/source/barcode.md:29
+#: ../../Manual/Wired-290/source/barcode.md:46
+msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:34
-#: ../../Manual/Wired-290/source/barcode.md:40
-msgid "Enable All 2D Codes"
+#: ../../Manual/Wired-290/source/barcode.md:32
+msgid "2D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:43
-#: ../../Manual/Wired-290/source/barcode.md:49
-msgid "Disable All 2D Codes"
-msgstr ""
-
-#: ../../Manual/Wired-290/source/barcode.md:53
-#: ../../Manual/Wired-290/source/barcode.md:62
+#: ../../Manual/Wired-290/source/barcode.md:50
+#: ../../Manual/Wired-290/source/barcode.md:59
 msgid "End Setup"
 msgstr ""

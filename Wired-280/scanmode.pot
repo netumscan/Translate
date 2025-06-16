@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../Manual/Wired-280/source/scanmode.md:5
 #: ../../Manual/Wired-280/source/scanmode.md:49
-msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
+msgid "Only after scanning [Start Setup](#start-setup-figure) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup-figure) for the corresponding configuration to take effect."
 msgstr ""
 
 #: ../../Manual/Wired-280/source/scanmode.md:15
@@ -39,7 +39,7 @@ msgid "Press the button to trigger scanning, and release the button to end scann
 msgstr ""
 
 #: ../../Manual/Wired-280/source/scanmode.md:22
-msgid "Key Trigger Mode `Default`"
+msgid "`*` Key Trigger Mode"
 msgstr ""
 
 #: ../../Manual/Wired-280/source/scanmode.md:26

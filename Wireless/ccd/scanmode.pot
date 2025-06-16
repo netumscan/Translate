@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:1
+msgid "Scan Mode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:3
+msgid "Key Trigger Mode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:4
+msgid "Press the button to trigger scanning, and release the button to end scanning. Scanning ends when the scan is successful or the reading time exceeds the single reading time."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:10
+msgid "`*` Key Trigger Mode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:13
+#: ../../Manual/Wireless/source/ccd/scanmode.md:20
+msgid "Continuous Mode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:14
+msgid "The scanner works continuously. If the scan is successful or the scan time exceeds the single working time, the current scan ends. If the time exceeds the specified time, the next scan is automatically triggered."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:24
+msgid "Auto Sensing Mode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:25
+msgid "In the auto sensing mode, the scanner will detect the brightness of the surrounding environment. When the brightness changes, the scan is triggered. The scan ends when the scan is successful or the scan time exceeds the single working time. Regardless of whether the last scan was successful or failed, the brightness of the surrounding environment will be detected again."
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:27
+#: ../../Manual/Wireless/source/ccd/scanmode.md:48
+msgid "Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:33
+#: ../../Manual/Wireless/source/ccd/scanmode.md:54
+msgid "`*` Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:37
+#: ../../Manual/Wireless/source/ccd/scanmode.md:43
+#: ../../Manual/Wireless/source/ccd/scanmode.md:57
+#: ../../Manual/Wireless/source/ccd/scanmode.md:63
+msgid "Enable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:46
+msgid "Duplicate Barcode Detection Settings"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:66
+msgid "Repeat Barcode Interval"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:72
+msgid "1s"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:79
+msgid "2s"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:86
+msgid "3s"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:93
+msgid "5s"
+msgstr ""
+
+#: ../../Manual/Wireless/source/ccd/scanmode.md:100
+msgid "10s"
+msgstr ""

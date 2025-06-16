@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,42 +21,42 @@ msgid "System Settings"
 msgstr ""
 
 #: ../../Manual/Wired-280/source/system.md:3
-#: ../../Manual/Wired-280/source/system.md:11
+#: ../../Manual/Wired-280/source/system.md:12
 msgid "Start Setup"
 msgstr ""
 
 #: ../../Manual/Wired-280/source/system.md:5
-#: ../../Manual/Wired-280/source/system.md:49
-msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
-msgstr ""
-
-#: ../../Manual/Wired-280/source/system.md:14
-#: ../../Manual/Wired-280/source/system.md:22
-msgid "Restore Default Settings"
+#: ../../Manual/Wired-280/source/system.md:50
+msgid "Only after scanning [Start Setup](#start-setup-figure) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup-figure) for the corresponding configuration to take effect."
 msgstr ""
 
 #: ../../Manual/Wired-280/source/system.md:15
+#: ../../Manual/Wired-280/source/system.md:23
+msgid "Restore Default Settings"
+msgstr ""
+
+#: ../../Manual/Wired-280/source/system.md:16
 msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/system.md:27
+#: ../../Manual/Wired-280/source/system.md:28
 msgid "Volume Settings"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/system.md:29
+#: ../../Manual/Wired-280/source/system.md:30
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/system.md:35
-msgid "Enable `Default`"
+#: ../../Manual/Wired-280/source/system.md:36
+msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/system.md:38
-#: ../../Manual/Wired-280/source/system.md:43
+#: ../../Manual/Wired-280/source/system.md:39
+#: ../../Manual/Wired-280/source/system.md:44
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/system.md:47
-#: ../../Manual/Wired-280/source/system.md:56
+#: ../../Manual/Wired-280/source/system.md:48
+#: ../../Manual/Wired-280/source/system.md:58
 msgid "End Setup"
 msgstr ""

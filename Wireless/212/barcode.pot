@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Manual/Wireless/source/212/barcode.md:1
+msgid "Symbologies"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:3
+msgid "All Symbologies"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:9
+#: ../../Manual/Wireless/source/212/barcode.md:26
+#: ../../Manual/Wireless/source/212/barcode.md:42
+#: ../../Manual/Wireless/source/212/barcode.md:78
+#: ../../Manual/Wireless/source/212/barcode.md:102
+#: ../../Manual/Wireless/source/212/barcode.md:141
+#: ../../Manual/Wireless/source/212/barcode.md:221
+#: ../../Manual/Wireless/source/212/barcode.md:260
+#: ../../Manual/Wireless/source/212/barcode.md:377
+#: ../../Manual/Wireless/source/212/barcode.md:473
+#: ../../Manual/Wireless/source/212/barcode.md:493
+#: ../../Manual/Wireless/source/212/barcode.md:570
+#: ../../Manual/Wireless/source/212/barcode.md:609
+#: ../../Manual/Wireless/source/212/barcode.md:682
+#: ../../Manual/Wireless/source/212/barcode.md:752
+#: ../../Manual/Wireless/source/212/barcode.md:773
+#: ../../Manual/Wireless/source/212/barcode.md:958
+#: ../../Manual/Wireless/source/212/barcode.md:1103
+#: ../../Manual/Wireless/source/212/barcode.md:1704
+#: ../../Manual/Wireless/source/212/barcode.md:1722
+#: ../../Manual/Wireless/source/212/barcode.md:1768
+#: ../../Manual/Wireless/source/212/barcode.md:1830
+msgid "Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:16
+#: ../../Manual/Wireless/source/212/barcode.md:33
+#: ../../Manual/Wireless/source/212/barcode.md:49
+#: ../../Manual/Wireless/source/212/barcode.md:71
+#: ../../Manual/Wireless/source/212/barcode.md:86
+#: ../../Manual/Wireless/source/212/barcode.md:91
+#: ../../Manual/Wireless/source/212/barcode.md:165
+#: ../../Manual/Wireless/source/212/barcode.md:187
+#: ../../Manual/Wireless/source/212/barcode.md:210
+#: ../../Manual/Wireless/source/212/barcode.md:284
+#: ../../Manual/Wireless/source/212/barcode.md:303
+#: ../../Manual/Wireless/source/212/barcode.md:325
+#: ../../Manual/Wireless/source/212/barcode.md:348
+#: ../../Manual/Wireless/source/212/barcode.md:365
+#: ../../Manual/Wireless/source/212/barcode.md:402
+#: ../../Manual/Wireless/source/212/barcode.md:419
+#: ../../Manual/Wireless/source/212/barcode.md:441
+#: ../../Manual/Wireless/source/212/barcode.md:464
+#: ../../Manual/Wireless/source/212/barcode.md:516
+#: ../../Manual/Wireless/source/212/barcode.md:538
+#: ../../Manual/Wireless/source/212/barcode.md:561
+#: ../../Manual/Wireless/source/212/barcode.md:596
+#: ../../Manual/Wireless/source/212/barcode.md:632
+#: ../../Manual/Wireless/source/212/barcode.md:705
+#: ../../Manual/Wireless/source/212/barcode.md:833
+#: ../../Manual/Wireless/source/212/barcode.md:849
+#: ../../Manual/Wireless/source/212/barcode.md:864
+#: ../../Manual/Wireless/source/212/barcode.md:879
+#: ../../Manual/Wireless/source/212/barcode.md:898
+#: ../../Manual/Wireless/source/212/barcode.md:915
+#: ../../Manual/Wireless/source/212/barcode.md:931
+#: ../../Manual/Wireless/source/212/barcode.md:1018
+#: ../../Manual/Wireless/source/212/barcode.md:1092
+#: ../../Manual/Wireless/source/212/barcode.md:1160
+#: ../../Manual/Wireless/source/212/barcode.md:1176
+#: ../../Manual/Wireless/source/212/barcode.md:1194
+#: ../../Manual/Wireless/source/212/barcode.md:1243
+#: ../../Manual/Wireless/source/212/barcode.md:1259
+#: ../../Manual/Wireless/source/212/barcode.md:1278
+#: ../../Manual/Wireless/source/212/barcode.md:1293
+#: ../../Manual/Wireless/source/212/barcode.md:1309
+#: ../../Manual/Wireless/source/212/barcode.md:1362
+#: ../../Manual/Wireless/source/212/barcode.md:1377
+#: ../../Manual/Wireless/source/212/barcode.md:1393
+#: ../../Manual/Wireless/source/212/barcode.md:1447
+#: ../../Manual/Wireless/source/212/barcode.md:1498
+#: ../../Manual/Wireless/source/212/barcode.md:1516
+#: ../../Manual/Wireless/source/212/barcode.md:1532
+#: ../../Manual/Wireless/source/212/barcode.md:1589
+#: ../../Manual/Wireless/source/212/barcode.md:1658
+#: ../../Manual/Wireless/source/212/barcode.md:1695
+#: ../../Manual/Wireless/source/212/barcode.md:1791
+#: ../../Manual/Wireless/source/212/barcode.md:1853
+#: ../../Manual/Wireless/source/212/barcode.md:1899
+#: ../../Manual/Wireless/source/212/barcode.md:1917
+#: ../../Manual/Wireless/source/212/barcode.md:1937
+#: ../../Manual/Wireless/source/212/barcode.md:1985
+#: ../../Manual/Wireless/source/212/barcode.md:2003
+#: ../../Manual/Wireless/source/212/barcode.md:2019
+#: ../../Manual/Wireless/source/212/barcode.md:2034
+#: ../../Manual/Wireless/source/212/barcode.md:2050
+#: ../../Manual/Wireless/source/212/barcode.md:2103
+#: ../../Manual/Wireless/source/212/barcode.md:2120
+msgid "Enable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:20
+msgid "1D Symbologies"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:36
+msgid "2D Symbologies"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:52
+msgid "1D Reverse Symbologies"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:55
+msgid "**Regular barcode**: Dark image on a bright background."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:56
+msgid "**Inverse barcode**: Bright image on a dark background."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:63
+#: ../../Manual/Wireless/source/212/barcode.md:83
+#: ../../Manual/Wireless/source/212/barcode.md:158
+#: ../../Manual/Wireless/source/212/barcode.md:180
+#: ../../Manual/Wireless/source/212/barcode.md:203
+#: ../../Manual/Wireless/source/212/barcode.md:277
+#: ../../Manual/Wireless/source/212/barcode.md:296
+#: ../../Manual/Wireless/source/212/barcode.md:318
+#: ../../Manual/Wireless/source/212/barcode.md:341
+#: ../../Manual/Wireless/source/212/barcode.md:358
+#: ../../Manual/Wireless/source/212/barcode.md:395
+#: ../../Manual/Wireless/source/212/barcode.md:412
+#: ../../Manual/Wireless/source/212/barcode.md:434
+#: ../../Manual/Wireless/source/212/barcode.md:457
+#: ../../Manual/Wireless/source/212/barcode.md:509
+#: ../../Manual/Wireless/source/212/barcode.md:531
+#: ../../Manual/Wireless/source/212/barcode.md:554
+#: ../../Manual/Wireless/source/212/barcode.md:589
+#: ../../Manual/Wireless/source/212/barcode.md:625
+#: ../../Manual/Wireless/source/212/barcode.md:698
+#: ../../Manual/Wireless/source/212/barcode.md:826
+#: ../../Manual/Wireless/source/212/barcode.md:842
+#: ../../Manual/Wireless/source/212/barcode.md:857
+#: ../../Manual/Wireless/source/212/barcode.md:872
+#: ../../Manual/Wireless/source/212/barcode.md:891
+#: ../../Manual/Wireless/source/212/barcode.md:908
+#: ../../Manual/Wireless/source/212/barcode.md:924
+#: ../../Manual/Wireless/source/212/barcode.md:1011
+#: ../../Manual/Wireless/source/212/barcode.md:1063
+#: ../../Manual/Wireless/source/212/barcode.md:1085
+#: ../../Manual/Wireless/source/212/barcode.md:1154
+#: ../../Manual/Wireless/source/212/barcode.md:1169
+#: ../../Manual/Wireless/source/212/barcode.md:1187
+#: ../../Manual/Wireless/source/212/barcode.md:1237
+#: ../../Manual/Wireless/source/212/barcode.md:1252
+#: ../../Manual/Wireless/source/212/barcode.md:1271
+#: ../../Manual/Wireless/source/212/barcode.md:1287
+#: ../../Manual/Wireless/source/212/barcode.md:1302
+#: ../../Manual/Wireless/source/212/barcode.md:1355
+#: ../../Manual/Wireless/source/212/barcode.md:1371
+#: ../../Manual/Wireless/source/212/barcode.md:1386
+#: ../../Manual/Wireless/source/212/barcode.md:1440
+#: ../../Manual/Wireless/source/212/barcode.md:1491
+#: ../../Manual/Wireless/source/212/barcode.md:1509
+#: ../../Manual/Wireless/source/212/barcode.md:1525
+#: ../../Manual/Wireless/source/212/barcode.md:1582
+#: ../../Manual/Wireless/source/212/barcode.md:1651
+#: ../../Manual/Wireless/source/212/barcode.md:1688
+#: ../../Manual/Wireless/source/212/barcode.md:1784
+#: ../../Manual/Wireless/source/212/barcode.md:1846
+#: ../../Manual/Wireless/source/212/barcode.md:1892
+#: ../../Manual/Wireless/source/212/barcode.md:1910
+#: ../../Manual/Wireless/source/212/barcode.md:1930
+#: ../../Manual/Wireless/source/212/barcode.md:1978
+#: ../../Manual/Wireless/source/212/barcode.md:1996
+#: ../../Manual/Wireless/source/212/barcode.md:2012
+#: ../../Manual/Wireless/source/212/barcode.md:2028
+#: ../../Manual/Wireless/source/212/barcode.md:2043
+#: ../../Manual/Wireless/source/212/barcode.md:2096
+#: ../../Manual/Wireless/source/212/barcode.md:2113
+msgid "`*` Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:75
+msgid "Block Barcodes With URLs"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:76
+msgid "Block scanning of URL QR codes starting with `http://`, `https://`"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:94
+msgid "UPC-A"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:96
+#: ../../Manual/Wireless/source/212/barcode.md:215
+#: ../../Manual/Wireless/source/212/barcode.md:371
+#: ../../Manual/Wireless/source/212/barcode.md:487
+#: ../../Manual/Wireless/source/212/barcode.md:583
+#: ../../Manual/Wireless/source/212/barcode.md:603
+#: ../../Manual/Wireless/source/212/barcode.md:676
+#: ../../Manual/Wireless/source/212/barcode.md:746
+#: ../../Manual/Wireless/source/212/barcode.md:767
+#: ../../Manual/Wireless/source/212/barcode.md:952
+#: ../../Manual/Wireless/source/212/barcode.md:1005
+#: ../../Manual/Wireless/source/212/barcode.md:1097
+#: ../../Manual/Wireless/source/212/barcode.md:1181
+#: ../../Manual/Wireless/source/212/barcode.md:1265
+#: ../../Manual/Wireless/source/212/barcode.md:1349
+#: ../../Manual/Wireless/source/212/barcode.md:1434
+#: ../../Manual/Wireless/source/212/barcode.md:1576
+#: ../../Manual/Wireless/source/212/barcode.md:1682
+#: ../../Manual/Wireless/source/212/barcode.md:1716
+#: ../../Manual/Wireless/source/212/barcode.md:1762
+#: ../../Manual/Wireless/source/212/barcode.md:1824
+#: ../../Manual/Wireless/source/212/barcode.md:1886
+#: ../../Manual/Wireless/source/212/barcode.md:1904
+#: ../../Manual/Wireless/source/212/barcode.md:1924
+#: ../../Manual/Wireless/source/212/barcode.md:1970
+#: ../../Manual/Wireless/source/212/barcode.md:1990
+#: ../../Manual/Wireless/source/212/barcode.md:2006
+#: ../../Manual/Wireless/source/212/barcode.md:2090
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:109
+#: ../../Manual/Wireless/source/212/barcode.md:148
+#: ../../Manual/Wireless/source/212/barcode.md:228
+#: ../../Manual/Wireless/source/212/barcode.md:267
+#: ../../Manual/Wireless/source/212/barcode.md:384
+#: ../../Manual/Wireless/source/212/barcode.md:480
+#: ../../Manual/Wireless/source/212/barcode.md:500
+#: ../../Manual/Wireless/source/212/barcode.md:577
+#: ../../Manual/Wireless/source/212/barcode.md:616
+#: ../../Manual/Wireless/source/212/barcode.md:689
+#: ../../Manual/Wireless/source/212/barcode.md:759
+#: ../../Manual/Wireless/source/212/barcode.md:780
+#: ../../Manual/Wireless/source/212/barcode.md:965
+#: ../../Manual/Wireless/source/212/barcode.md:1110
+#: ../../Manual/Wireless/source/212/barcode.md:1711
+#: ../../Manual/Wireless/source/212/barcode.md:1729
+#: ../../Manual/Wireless/source/212/barcode.md:1775
+#: ../../Manual/Wireless/source/212/barcode.md:1837
+msgid "`*` Enable"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:112
+#: ../../Manual/Wireless/source/212/barcode.md:231
+msgid "Transmit Preamble Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:113
+#: ../../Manual/Wireless/source/212/barcode.md:232
+msgid "Preamble characters (country code and system characters) can be transmitted as part of the UPC-A symbology. Select one of the following options to set and transmit a UPC-A preamble to the host: Transmit system characters only, Transmit system characters and country code (\"0\" for the United States), or Transmit no preamble."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:119
+#: ../../Manual/Wireless/source/212/barcode.md:238
+msgid "No System Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:126
+#: ../../Manual/Wireless/source/212/barcode.md:245
+msgid "`*` System Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:132
+#: ../../Manual/Wireless/source/212/barcode.md:251
+msgid "System Character & Country Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:135
+#: ../../Manual/Wireless/source/212/barcode.md:254
+#: ../../Manual/Wireless/source/212/barcode.md:467
+#: ../../Manual/Wireless/source/212/barcode.md:564
+#: ../../Manual/Wireless/source/212/barcode.md:619
+#: ../../Manual/Wireless/source/212/barcode.md:692
+#: ../../Manual/Wireless/source/212/barcode.md:836
+#: ../../Manual/Wireless/source/212/barcode.md:1079
+#: ../../Manual/Wireless/source/212/barcode.md:1163
+#: ../../Manual/Wireless/source/212/barcode.md:1246
+#: ../../Manual/Wireless/source/212/barcode.md:1296
+#: ../../Manual/Wireless/source/212/barcode.md:1380
+#: ../../Manual/Wireless/source/212/barcode.md:1503
+#: ../../Manual/Wireless/source/212/barcode.md:1645
+#: ../../Manual/Wireless/source/212/barcode.md:2037
+msgid "Transmit Check Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:152
+#: ../../Manual/Wireless/source/212/barcode.md:290
+#: ../../Manual/Wireless/source/212/barcode.md:406
+#: ../../Manual/Wireless/source/212/barcode.md:503
+msgid "2-Digit Add-On Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:169
+#: ../../Manual/Wireless/source/212/barcode.md:191
+#: ../../Manual/Wireless/source/212/barcode.md:307
+#: ../../Manual/Wireless/source/212/barcode.md:329
+#: ../../Manual/Wireless/source/212/barcode.md:423
+#: ../../Manual/Wireless/source/212/barcode.md:445
+#: ../../Manual/Wireless/source/212/barcode.md:520
+#: ../../Manual/Wireless/source/212/barcode.md:542
+msgid "`Disable`:When the scanner scans a barcode with an additional code, it decodes the barcode and ignores the additional code. The scanner can also decode barcodes without the additional code."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:170
+#: ../../Manual/Wireless/source/212/barcode.md:192
+#: ../../Manual/Wireless/source/212/barcode.md:308
+#: ../../Manual/Wireless/source/212/barcode.md:330
+#: ../../Manual/Wireless/source/212/barcode.md:424
+#: ../../Manual/Wireless/source/212/barcode.md:446
+#: ../../Manual/Wireless/source/212/barcode.md:521
+#: ../../Manual/Wireless/source/212/barcode.md:543
+msgid "`Enable`:Scanner decodes a mix of barcodes with and without add-on codes."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:173
+#: ../../Manual/Wireless/source/212/barcode.md:311
+#: ../../Manual/Wireless/source/212/barcode.md:427
+#: ../../Manual/Wireless/source/212/barcode.md:524
+msgid "5-Digit Add-On Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:195
+#: ../../Manual/Wireless/source/212/barcode.md:333
+#: ../../Manual/Wireless/source/212/barcode.md:449
+#: ../../Manual/Wireless/source/212/barcode.md:546
+msgid "Only decode barcodes with Add-On Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:197
+#: ../../Manual/Wireless/source/212/barcode.md:335
+#: ../../Manual/Wireless/source/212/barcode.md:451
+#: ../../Manual/Wireless/source/212/barcode.md:548
+msgid "When `Enable` is selected, the scanner will only read barcodes that contain add-on codes."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:213
+msgid "UPC-E"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:270
+msgid "Convert UPC-E to UPC-A"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:287
+msgid "When `Enable` is selected,Converts UPC-E decoded data to UPC-A format. After conversion, the data follows the UPC-A format and is affected by UPC-A programming selections (e.g., preamble, check digit)."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:351
+msgid "UPC-E1 Switch"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:369
+msgid "EAN-8"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:387
+msgid "EAN-8 Extension"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:389
+msgid "When `Enable` is selected, the scanner adds five leading zeros to the decoded EAN-8 barcode to extend to 13 digits."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:485
+msgid "EAN-13"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:580
+msgid "Bookland EAN(ISBN)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:601
+msgid "Code 128"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:635
+#: ../../Manual/Wireless/source/212/barcode.md:708
+#: ../../Manual/Wireless/source/212/barcode.md:783
+#: ../../Manual/Wireless/source/212/barcode.md:968
+#: ../../Manual/Wireless/source/212/barcode.md:1021
+#: ../../Manual/Wireless/source/212/barcode.md:1112
+#: ../../Manual/Wireless/source/212/barcode.md:1196
+#: ../../Manual/Wireless/source/212/barcode.md:1312
+#: ../../Manual/Wireless/source/212/barcode.md:1396
+#: ../../Manual/Wireless/source/212/barcode.md:1450
+#: ../../Manual/Wireless/source/212/barcode.md:1592
+#: ../../Manual/Wireless/source/212/barcode.md:2053
+msgid "Set Length Range"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:636
+#: ../../Manual/Wireless/source/212/barcode.md:709
+#: ../../Manual/Wireless/source/212/barcode.md:784
+#: ../../Manual/Wireless/source/212/barcode.md:969
+#: ../../Manual/Wireless/source/212/barcode.md:1022
+#: ../../Manual/Wireless/source/212/barcode.md:1113
+#: ../../Manual/Wireless/source/212/barcode.md:1197
+#: ../../Manual/Wireless/source/212/barcode.md:1313
+#: ../../Manual/Wireless/source/212/barcode.md:1397
+#: ../../Manual/Wireless/source/212/barcode.md:1451
+#: ../../Manual/Wireless/source/212/barcode.md:1593
+#: ../../Manual/Wireless/source/212/barcode.md:2054
+msgid "The length of a barcode refers to the number of characters (i.e. human-readable characters) contained in the barcode, including the check digit. The length of a barcode can be set to any length, within a specific range."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:639
+#: ../../Manual/Wireless/source/212/barcode.md:712
+#: ../../Manual/Wireless/source/212/barcode.md:787
+#: ../../Manual/Wireless/source/212/barcode.md:972
+#: ../../Manual/Wireless/source/212/barcode.md:1025
+#: ../../Manual/Wireless/source/212/barcode.md:1116
+#: ../../Manual/Wireless/source/212/barcode.md:1200
+#: ../../Manual/Wireless/source/212/barcode.md:1316
+#: ../../Manual/Wireless/source/212/barcode.md:1400
+#: ../../Manual/Wireless/source/212/barcode.md:1454
+#: ../../Manual/Wireless/source/212/barcode.md:1596
+#: ../../Manual/Wireless/source/212/barcode.md:2057
+msgid "When setting lengths, single digit numbers must always be preceded by a leading zero."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:642
+#: ../../Manual/Wireless/source/212/barcode.md:657
+#: ../../Manual/Wireless/source/212/barcode.md:715
+#: ../../Manual/Wireless/source/212/barcode.md:730
+#: ../../Manual/Wireless/source/212/barcode.md:790
+#: ../../Manual/Wireless/source/212/barcode.md:805
+#: ../../Manual/Wireless/source/212/barcode.md:975
+#: ../../Manual/Wireless/source/212/barcode.md:990
+#: ../../Manual/Wireless/source/212/barcode.md:1028
+#: ../../Manual/Wireless/source/212/barcode.md:1043
+#: ../../Manual/Wireless/source/212/barcode.md:1119
+#: ../../Manual/Wireless/source/212/barcode.md:1134
+#: ../../Manual/Wireless/source/212/barcode.md:1203
+#: ../../Manual/Wireless/source/212/barcode.md:1218
+#: ../../Manual/Wireless/source/212/barcode.md:1319
+#: ../../Manual/Wireless/source/212/barcode.md:1334
+#: ../../Manual/Wireless/source/212/barcode.md:1403
+#: ../../Manual/Wireless/source/212/barcode.md:1418
+#: ../../Manual/Wireless/source/212/barcode.md:1457
+#: ../../Manual/Wireless/source/212/barcode.md:1472
+#: ../../Manual/Wireless/source/212/barcode.md:1599
+#: ../../Manual/Wireless/source/212/barcode.md:1614
+#: ../../Manual/Wireless/source/212/barcode.md:2060
+#: ../../Manual/Wireless/source/212/barcode.md:2075
+msgid "Length Of Specific Range"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:643
+#: ../../Manual/Wireless/source/212/barcode.md:716
+#: ../../Manual/Wireless/source/212/barcode.md:791
+#: ../../Manual/Wireless/source/212/barcode.md:976
+#: ../../Manual/Wireless/source/212/barcode.md:1029
+#: ../../Manual/Wireless/source/212/barcode.md:1120
+#: ../../Manual/Wireless/source/212/barcode.md:1204
+#: ../../Manual/Wireless/source/212/barcode.md:1320
+#: ../../Manual/Wireless/source/212/barcode.md:1404
+#: ../../Manual/Wireless/source/212/barcode.md:1458
+#: ../../Manual/Wireless/source/212/barcode.md:1600
+#: ../../Manual/Wireless/source/212/barcode.md:2061
+msgid "Allows reading of barcodes with a specific length. First scan the barcode with a length within a specific range, then scan the 4-digit setting code in the [appendix](#digital-barcode) to set the corresponding two lengths L1 and L2. L1 and L2 each occupy a two-digit setting code, and any digits less than 2 are padded with 0,setting range: 01-99."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:644
+#: ../../Manual/Wireless/source/212/barcode.md:717
+#: ../../Manual/Wireless/source/212/barcode.md:792
+#: ../../Manual/Wireless/source/212/barcode.md:977
+#: ../../Manual/Wireless/source/212/barcode.md:1030
+#: ../../Manual/Wireless/source/212/barcode.md:1121
+#: ../../Manual/Wireless/source/212/barcode.md:1205
+#: ../../Manual/Wireless/source/212/barcode.md:1321
+#: ../../Manual/Wireless/source/212/barcode.md:1405
+#: ../../Manual/Wireless/source/212/barcode.md:1459
+#: ../../Manual/Wireless/source/212/barcode.md:1601
+#: ../../Manual/Wireless/source/212/barcode.md:2062
+msgid "When L1 < L2, L1 is the minimum length and L2 is the maximum length."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:645
+#: ../../Manual/Wireless/source/212/barcode.md:718
+#: ../../Manual/Wireless/source/212/barcode.md:793
+#: ../../Manual/Wireless/source/212/barcode.md:978
+#: ../../Manual/Wireless/source/212/barcode.md:1031
+#: ../../Manual/Wireless/source/212/barcode.md:1122
+#: ../../Manual/Wireless/source/212/barcode.md:1206
+#: ../../Manual/Wireless/source/212/barcode.md:1322
+#: ../../Manual/Wireless/source/212/barcode.md:1406
+#: ../../Manual/Wireless/source/212/barcode.md:1460
+#: ../../Manual/Wireless/source/212/barcode.md:1602
+#: ../../Manual/Wireless/source/212/barcode.md:2063
+msgid "When L1 > L2, L1 is the maximum length and L2 is the minimum length."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:646
+#: ../../Manual/Wireless/source/212/barcode.md:719
+#: ../../Manual/Wireless/source/212/barcode.md:794
+#: ../../Manual/Wireless/source/212/barcode.md:979
+#: ../../Manual/Wireless/source/212/barcode.md:1032
+#: ../../Manual/Wireless/source/212/barcode.md:1123
+#: ../../Manual/Wireless/source/212/barcode.md:1207
+#: ../../Manual/Wireless/source/212/barcode.md:1323
+#: ../../Manual/Wireless/source/212/barcode.md:1407
+#: ../../Manual/Wireless/source/212/barcode.md:1461
+#: ../../Manual/Wireless/source/212/barcode.md:1603
+#: ../../Manual/Wireless/source/212/barcode.md:2064
+msgid "When L1 = L2, only the fixed length (L1/L2) is read"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:649
+#: ../../Manual/Wireless/source/212/barcode.md:722
+#: ../../Manual/Wireless/source/212/barcode.md:797
+#: ../../Manual/Wireless/source/212/barcode.md:982
+#: ../../Manual/Wireless/source/212/barcode.md:1035
+#: ../../Manual/Wireless/source/212/barcode.md:1126
+#: ../../Manual/Wireless/source/212/barcode.md:1210
+#: ../../Manual/Wireless/source/212/barcode.md:1326
+#: ../../Manual/Wireless/source/212/barcode.md:1410
+#: ../../Manual/Wireless/source/212/barcode.md:1464
+#: ../../Manual/Wireless/source/212/barcode.md:1606
+#: ../../Manual/Wireless/source/212/barcode.md:2067
+msgid "Only 4-8 characters are allowed to be read, so scan the [digital setting code](#digital-barcode) \"0\" \"4\" \"0\" \"8\" or \"0\" \"8\" \"0\" \"4\""
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:650
+#: ../../Manual/Wireless/source/212/barcode.md:723
+#: ../../Manual/Wireless/source/212/barcode.md:798
+#: ../../Manual/Wireless/source/212/barcode.md:983
+#: ../../Manual/Wireless/source/212/barcode.md:1036
+#: ../../Manual/Wireless/source/212/barcode.md:1127
+#: ../../Manual/Wireless/source/212/barcode.md:1211
+#: ../../Manual/Wireless/source/212/barcode.md:1327
+#: ../../Manual/Wireless/source/212/barcode.md:1411
+#: ../../Manual/Wireless/source/212/barcode.md:1465
+#: ../../Manual/Wireless/source/212/barcode.md:1607
+#: ../../Manual/Wireless/source/212/barcode.md:2068
+msgid "To read only 12 characters, scan the [digital setting code](#digital-barcode) \"1\" \"2\" \"1\" \"2\""
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:661
+#: ../../Manual/Wireless/source/212/barcode.md:668
+#: ../../Manual/Wireless/source/212/barcode.md:734
+#: ../../Manual/Wireless/source/212/barcode.md:741
+#: ../../Manual/Wireless/source/212/barcode.md:809
+#: ../../Manual/Wireless/source/212/barcode.md:816
+#: ../../Manual/Wireless/source/212/barcode.md:993
+#: ../../Manual/Wireless/source/212/barcode.md:1000
+#: ../../Manual/Wireless/source/212/barcode.md:1046
+#: ../../Manual/Wireless/source/212/barcode.md:1053
+#: ../../Manual/Wireless/source/212/barcode.md:1137
+#: ../../Manual/Wireless/source/212/barcode.md:1144
+#: ../../Manual/Wireless/source/212/barcode.md:1221
+#: ../../Manual/Wireless/source/212/barcode.md:1228
+#: ../../Manual/Wireless/source/212/barcode.md:1337
+#: ../../Manual/Wireless/source/212/barcode.md:1344
+#: ../../Manual/Wireless/source/212/barcode.md:1421
+#: ../../Manual/Wireless/source/212/barcode.md:1428
+#: ../../Manual/Wireless/source/212/barcode.md:1475
+#: ../../Manual/Wireless/source/212/barcode.md:1482
+#: ../../Manual/Wireless/source/212/barcode.md:1617
+#: ../../Manual/Wireless/source/212/barcode.md:1624
+#: ../../Manual/Wireless/source/212/barcode.md:2078
+#: ../../Manual/Wireless/source/212/barcode.md:2085
+msgid "Any Length"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:662
+#: ../../Manual/Wireless/source/212/barcode.md:735
+#: ../../Manual/Wireless/source/212/barcode.md:810
+#: ../../Manual/Wireless/source/212/barcode.md:994
+#: ../../Manual/Wireless/source/212/barcode.md:1047
+#: ../../Manual/Wireless/source/212/barcode.md:1138
+#: ../../Manual/Wireless/source/212/barcode.md:1222
+#: ../../Manual/Wireless/source/212/barcode.md:1338
+#: ../../Manual/Wireless/source/212/barcode.md:1422
+#: ../../Manual/Wireless/source/212/barcode.md:1476
+#: ../../Manual/Wireless/source/212/barcode.md:1618
+#: ../../Manual/Wireless/source/212/barcode.md:2079
+msgid "To read barcodes of any length, just scan any length without scanning the digital setting code. Default: 0-99"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:674
+msgid "GS1-128 (UCC/EAN-128)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:744
+msgid "ISBT 128"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:765
+msgid "Code 39"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:819
+#: ../../Manual/Wireless/source/212/barcode.md:1056
+#: ../../Manual/Wireless/source/212/barcode.md:1147
+#: ../../Manual/Wireless/source/212/barcode.md:1231
+#: ../../Manual/Wireless/source/212/barcode.md:1281
+#: ../../Manual/Wireless/source/212/barcode.md:1365
+#: ../../Manual/Wireless/source/212/barcode.md:1485
+#: ../../Manual/Wireless/source/212/barcode.md:1627
+#: ../../Manual/Wireless/source/212/barcode.md:2022
+msgid "Check Digit Verification"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:820
+msgid "When this feature is enabled, the scanner checks the integrity of all Code 39 symbologies to verify that the data complies with the specified check digit algorithm. Only Code 39 symbologies that contain a modulo 43 check digit can be decoded."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:851
+msgid "Code 39 Full ASCII"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:866
+msgid "Transmit Start And End Characters"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:882
+msgid "Code 32"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:884
+msgid "Convert Code 39 To Code 32 (Italian Pharmaceutical Code)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:885
+msgid "Code 32 is a variation of Code 39 used by the Italian pharmaceutical industry. Scan the appropriate bar code below to enable or disable the conversion of Code 39 to Code 32."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:901
+msgid "Code 32 Prefix"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:902
+msgid "Enabling this parameter adds the prefix character \"A\" to all Code 32 codes. Before enabling this parameter, you must convert Code 39 to Code 32 (Italian Pharmaceutical Code)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:918
+msgid "Code 32 Checksum Verification"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:934
+msgid "Transmit Code 32 Check Digit"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:940
+msgid "`*` Transmission Check Digit"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:947
+msgid "Transmission Start Character, End Character, Check Bit"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:950
+msgid "Code 93"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1003
+msgid "Code 11"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1057
+msgid "This feature allows the scanner to check the integrity of all Code 11 symbologies to verify that the data conforms to a specified check digit algorithm. This selects the check digit mechanism for the decoded Code 11 barcode. Options include checking one check digit, checking two check digits, or disabling the feature."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1069
+msgid "One Check Digit"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1075
+#: ../../Manual/Wireless/source/212/barcode.md:1640
+msgid "Two Check Digits"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1095
+msgid "Interleaved 2 of 5/ITF"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1148
+msgid "When enabled, this parameter checks the integrity of the I 2 of 5 symbology to ensure that it complies with the specified algorithm, including USS (Uniform Symbol Specification) or OPCC (Optical Product Code Committee)."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1179
+msgid "Discrete 2 of 5/Industrial 2 of 5/IND25"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1263
+msgid "Matrix 25"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1347
+msgid "Standdard 25/IATA 25"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1432
+msgid "Codabar"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1519
+msgid "NOTIS Editing"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1535
+msgid "Start And End Character Formats"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1538
+msgid "`ABCD/ABCD` The start and end characters can be one of the following four characters: \"A\", \"B\", \"C\", \"D\";"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1539
+msgid "`ABCD/TN*E` The start character can be one of the following four characters: \"A\", \"B\", \"C\", \"D\"; the end character can be one of the following four characters: \"T\", \"N\", \"*\", \"E\"."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1547
+msgid "`*` ABCD/ABCD"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1554
+msgid "ABCD/TN*E"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1559
+msgid "Start And End Character Case"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1565
+msgid "`*` Uppercase Letter"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1572
+msgid "Lowercase Letters"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1575
+msgid "MSI/MSI Plessey"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1633
+msgid "`*` One Check Digit"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1661
+msgid "Check Digit Algorithm"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1662
+msgid "When the Two MSI Check Digits option is selected, additional verification is required to ensure integrity. Select one of the following algorithms:"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1668
+msgid "MOD 10/MOD 11"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1675
+msgid "`*` MOD 10/MOD 10"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1680
+msgid "GS1 DataBar/RSS"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1698
+msgid "RSS AI Character"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1714
+msgid "PDF417"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1732
+#: ../../Manual/Wireless/source/212/barcode.md:1794
+#: ../../Manual/Wireless/source/212/barcode.md:1856
+#: ../../Manual/Wireless/source/212/barcode.md:1940
+msgid "Regular/Inverse Decode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1735
+#: ../../Manual/Wireless/source/212/barcode.md:1797
+#: ../../Manual/Wireless/source/212/barcode.md:1859
+#: ../../Manual/Wireless/source/212/barcode.md:1943
+msgid "Regular barcode: Dark bars on a bright background."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1736
+#: ../../Manual/Wireless/source/212/barcode.md:1798
+#: ../../Manual/Wireless/source/212/barcode.md:1860
+#: ../../Manual/Wireless/source/212/barcode.md:1944
+msgid "Inverse barcode: Bright bars on a dark background."
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1743
+#: ../../Manual/Wireless/source/212/barcode.md:1805
+#: ../../Manual/Wireless/source/212/barcode.md:1867
+#: ../../Manual/Wireless/source/212/barcode.md:1951
+msgid "`*` Decode Regular Barcodes Only"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1750
+#: ../../Manual/Wireless/source/212/barcode.md:1812
+#: ../../Manual/Wireless/source/212/barcode.md:1874
+#: ../../Manual/Wireless/source/212/barcode.md:1958
+msgid "Decode Inverse Barcodes Only"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1757
+#: ../../Manual/Wireless/source/212/barcode.md:1819
+#: ../../Manual/Wireless/source/212/barcode.md:1881
+#: ../../Manual/Wireless/source/212/barcode.md:1965
+msgid "Decode Both"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1760
+msgid "QR Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1778
+#: ../../Manual/Wireless/source/212/barcode.md:1840
+msgid "ECI Output"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1822
+msgid "Data Matrix(DM)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1884
+msgid "Maxi Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1902
+msgid "Aztec Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1922
+msgid "Han Xin COde"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1968
+msgid "ISSN"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1972
+msgid "Convert to EAN13 when disabled"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:1988
+msgid "NEC-25(COOP25)"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2088
+msgid "COMPOSITE"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2106
+msgid "Brazil Bank Code"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2124
+msgid "Digital Barcode"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2131
+msgid "0"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2137
+msgid "1"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2143
+msgid "2"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2149
+msgid "3"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2155
+msgid "4"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2161
+msgid "5"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2167
+msgid "6"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2173
+msgid "7"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2179
+msgid "8"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2185
+msgid "9"
+msgstr ""
+
+#: ../../Manual/Wireless/source/212/barcode.md:2191
+msgid "Cancel"
+msgstr ""

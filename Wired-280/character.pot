@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-16 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,34 +25,34 @@ msgid "The end character is added after the decoded data in the format of decode
 msgstr ""
 
 #: ../../Manual/Wired-280/source/character.md:4
-#: ../../Manual/Wired-280/source/character.md:12
+#: ../../Manual/Wired-280/source/character.md:13
 msgid "Start Setup"
 msgstr ""
 
 #: ../../Manual/Wired-280/source/character.md:6
-#: ../../Manual/Wired-280/source/character.md:46
-msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
+#: ../../Manual/Wired-280/source/character.md:47
+msgid "Only after scanning [Start Setup](#start-setup-figure) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup-figure) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:15
-#: ../../Manual/Wired-280/source/character.md:21
+#: ../../Manual/Wired-280/source/character.md:16
+#: ../../Manual/Wired-280/source/character.md:22
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:25
-#: ../../Manual/Wired-280/source/character.md:31
+#: ../../Manual/Wired-280/source/character.md:26
+#: ../../Manual/Wired-280/source/character.md:32
 msgid "Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:35
+#: ../../Manual/Wired-280/source/character.md:36
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:41
-msgid "Enter(CR)  `Default`"
+#: ../../Manual/Wired-280/source/character.md:42
+msgid "`*` Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:44
-#: ../../Manual/Wired-280/source/character.md:53
+#: ../../Manual/Wired-280/source/character.md:45
+#: ../../Manual/Wired-280/source/character.md:55
 msgid "End Setup"
 msgstr ""
