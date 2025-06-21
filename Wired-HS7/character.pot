@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-21 08:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,29 +17,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../Manual/Wired-HS7/source/character.md:1
+msgid "Terminator"
+msgstr ""
+
+#: ../../Manual/Wired-HS7/source/character.md:3
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/character.md:2
+#: ../../Manual/Wired-HS7/source/character.md:4
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/character.md:5
-#: ../../Manual/Wired-HS7/source/character.md:11
+#: ../../Manual/Wired-HS7/source/character.md:7
+#: ../../Manual/Wired-HS7/source/character.md:13
 msgid "Add Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/character.md:14
-#: ../../Manual/Wired-HS7/source/character.md:20
+#: ../../Manual/Wired-HS7/source/character.md:16
+#: ../../Manual/Wired-HS7/source/character.md:22
 msgid "Cancel Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/character.md:24
-#: ../../Manual/Wired-HS7/source/character.md:30
+#: ../../Manual/Wired-HS7/source/character.md:26
+#: ../../Manual/Wired-HS7/source/character.md:32
 msgid "Add Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/character.md:35
-#: ../../Manual/Wired-HS7/source/character.md:41
+#: ../../Manual/Wired-HS7/source/character.md:37
+#: ../../Manual/Wired-HS7/source/character.md:43
 msgid "Cancel Enter+New Line(CRLF)"
 msgstr ""

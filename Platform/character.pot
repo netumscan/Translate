@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-06-21 08:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,29 +17,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../Manual/Platform/source/character.md:1
+msgid "Terminator"
+msgstr ""
+
+#: ../../Manual/Platform/source/character.md:2
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:3
+#: ../../Manual/Platform/source/character.md:4
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:5
-#: ../../Manual/Platform/source/character.md:10
+#: ../../Manual/Platform/source/character.md:6
+#: ../../Manual/Platform/source/character.md:11
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:13
-#: ../../Manual/Platform/source/character.md:18
+#: ../../Manual/Platform/source/character.md:14
+#: ../../Manual/Platform/source/character.md:19
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:21
-#: ../../Manual/Platform/source/character.md:26
+#: ../../Manual/Platform/source/character.md:22
+#: ../../Manual/Platform/source/character.md:27
 msgid "Tab(TAB)"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:29
-#: ../../Manual/Platform/source/character.md:34
+#: ../../Manual/Platform/source/character.md:30
+#: ../../Manual/Platform/source/character.md:35
 msgid "Enter+New Line(CRLF)"
 msgstr ""

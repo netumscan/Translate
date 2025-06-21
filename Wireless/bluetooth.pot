@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 11:16+0800\n"
+"POT-Creation-Date: 2025-06-21 08:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,89 +21,85 @@ msgstr ""
 msgid "Bluetooth Mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:10
-msgid "C Pro series scanners do not support scanning this setting code to switch"
-msgstr ""
-
-#: ../../Manual/Wireless/source/bluetooth.md:13
-msgid "Scan the Bluetooth mode, then press the button to start, you can switch to Bluetooth transmission, turn on Bluetooth to search for devices for pairing, and after successful pairing, you can transmit data via Bluetooth."
-msgstr ""
-
-#: ../../Manual/Wireless/source/bluetooth.md:14
-msgid "Bluetooth name: `barcode scanner` or `NETUM Bluetooth`"
-msgstr ""
-
-#: ../../Manual/Wireless/source/bluetooth.md:15
-msgid "Switch to Bluetooth mode and the blue indicator light will light up."
-msgstr ""
-
-#: ../../Manual/Wireless/source/bluetooth.md:19
+#: ../../Manual/Wireless/source/bluetooth.md:11
 msgid "The blue light means:<br>①The blue light flashes, indicating that it is not connected.<br>②The blue light is on, indicating it is connected."
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:23
+#: ../../Manual/Wireless/source/bluetooth.md:15
 msgid "Bluetooth HID"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:29
+#: ../../Manual/Wireless/source/bluetooth.md:16
+msgid "NO software installation needed"
+msgstr ""
+
+#: ../../Manual/Wireless/source/bluetooth.md:17
+msgid "Connects to most devices"
+msgstr ""
+
+#: ../../Manual/Wireless/source/bluetooth.md:18
+msgid "Scanner interacts with host device like a keyboard"
+msgstr ""
+
+#: ../../Manual/Wireless/source/bluetooth.md:24
 msgid "`*` Bluetooth HID"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:32
-#: ../../Manual/Wireless/source/bluetooth.md:38
+#: ../../Manual/Wireless/source/bluetooth.md:27
+#: ../../Manual/Wireless/source/bluetooth.md:33
 msgid "Bluetooth SPP"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:41
-#: ../../Manual/Wireless/source/bluetooth.md:47
+#: ../../Manual/Wireless/source/bluetooth.md:36
+#: ../../Manual/Wireless/source/bluetooth.md:42
 msgid "Bluetooth BLE"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:51
+#: ../../Manual/Wireless/source/bluetooth.md:46
 msgid "Bluetooth SPP and Bluetooth BLE are modes used for software docking. If you need to search and pair through system Bluetooth, you need to use [Bluetooth HID](#bluetooth-hid)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:53
-#: ../../Manual/Wireless/source/bluetooth.md:59
+#: ../../Manual/Wireless/source/bluetooth.md:48
+#: ../../Manual/Wireless/source/bluetooth.md:54
 msgid "Clear Pairing Information"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:63
+#: ../../Manual/Wireless/source/bluetooth.md:58
 msgid "Re-pair with a new device, or if pairing fails, scan the setup code to pair again."
 msgstr ""
 
+#: ../../Manual/Wireless/source/bluetooth.md:61
 #: ../../Manual/Wireless/source/bluetooth.md:66
-#: ../../Manual/Wireless/source/bluetooth.md:71
 msgid "IOS Popup/Hide Keyboard"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:75
+#: ../../Manual/Wireless/source/bluetooth.md:70
 msgid "You can also press the scan button twice in a row to pop up/hide the keyboard without scanning the code. This function only supports Bluetooth pairing on iOS system."
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:78
+#: ../../Manual/Wireless/source/bluetooth.md:73
 msgid "Bluetooth Keyboard Transmission Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:85
+#: ../../Manual/Wireless/source/bluetooth.md:80
 msgid "Get Bluetooth Keyboard Transmission Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:87
-#: ../../Manual/Wireless/source/bluetooth.md:93
+#: ../../Manual/Wireless/source/bluetooth.md:82
+#: ../../Manual/Wireless/source/bluetooth.md:88
 msgid "High Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:96
-#: ../../Manual/Wireless/source/bluetooth.md:102
+#: ../../Manual/Wireless/source/bluetooth.md:91
+#: ../../Manual/Wireless/source/bluetooth.md:97
 msgid "Medium Speed"
 msgstr ""
 
+#: ../../Manual/Wireless/source/bluetooth.md:100
 #: ../../Manual/Wireless/source/bluetooth.md:105
-#: ../../Manual/Wireless/source/bluetooth.md:110
 msgid "Low Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/bluetooth.md:113
+#: ../../Manual/Wireless/source/bluetooth.md:108
 msgid "Modify Bluetooth Name"
 msgstr ""
