@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 11:16+0800\n"
+"POT-Creation-Date: 2025-06-21 10:44+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: ../../Manual/Wireless/source/process.md:101
 #: ../../Manual/Wireless/source/process.md:107
-#: ../../Manual/Wireless/source/process.md:188
+#: ../../Manual/Wireless/source/process.md:187
 msgid "Add Suffix"
 msgstr ""
 
@@ -191,22 +191,22 @@ msgstr ""
 msgid "Quick Setup"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:175
-#: ../../Manual/Wireless/source/process.md:189
-#: ../../Manual/Wireless/source/process.md:221
-msgid "For normal text, please use the following tools to quickly set"
-msgstr ""
-
-#: ../../Manual/Wireless/source/process.md:179
-#: ../../Manual/Wireless/source/process.md:193
+#: ../../Manual/Wireless/source/process.md:181
+#: ../../Manual/Wireless/source/process.md:196
 #: ../../Manual/Wireless/source/process.md:225
-msgid "For special character text, please use the following tools to quickly set"
+msgid "Special characters need to be processed in hexadecimal format, and `\\x` is added in front of the hexadecimal content to indicate the hexadecimal format."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:184
+#: ../../Manual/Wireless/source/process.md:182
+#: ../../Manual/Wireless/source/process.md:197
+#: ../../Manual/Wireless/source/process.md:226
+msgid "Please refer to the [ASCII character table](#ascii-chars-table) for specific characters converted into hexadecimal characters."
+msgstr ""
+
+#: ../../Manual/Wireless/source/process.md:183
 #: ../../Manual/Wireless/source/process.md:198
-#: ../../Manual/Wireless/source/process.md:230
-msgid "Please refer to the [ASCII character table](#ascii-chars-table) for specific characters converted into hexadecimal characters"
+#: ../../Manual/Wireless/source/process.md:227
+msgid "Example: To add a 0x03 to the content, the input content should be: \\x03"
 msgstr ""
 
 #: ../../Manual/Wireless/source/process.md:201
@@ -225,82 +225,82 @@ msgstr ""
 msgid "Replace Barcode Content"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:234
+#: ../../Manual/Wireless/source/process.md:231
 msgid "Appendix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:236
+#: ../../Manual/Wireless/source/process.md:233
 msgid "Numeric Bar Codes"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:244
+#: ../../Manual/Wireless/source/process.md:241
 msgid "0"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:252
+#: ../../Manual/Wireless/source/process.md:249
 msgid "1"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:260
+#: ../../Manual/Wireless/source/process.md:257
 msgid "2"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:268
+#: ../../Manual/Wireless/source/process.md:265
 msgid "3"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:276
+#: ../../Manual/Wireless/source/process.md:273
 msgid "4"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:284
+#: ../../Manual/Wireless/source/process.md:281
 msgid "5"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:292
+#: ../../Manual/Wireless/source/process.md:289
 msgid "6"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:300
+#: ../../Manual/Wireless/source/process.md:297
 msgid "7"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:308
+#: ../../Manual/Wireless/source/process.md:305
 msgid "8"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:316
+#: ../../Manual/Wireless/source/process.md:313
 msgid "9"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:324
+#: ../../Manual/Wireless/source/process.md:321
 msgid "A"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:332
+#: ../../Manual/Wireless/source/process.md:329
 msgid "B"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:340
+#: ../../Manual/Wireless/source/process.md:337
 msgid "C"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:348
+#: ../../Manual/Wireless/source/process.md:345
 msgid "D"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:356
+#: ../../Manual/Wireless/source/process.md:353
 msgid "E"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:364
+#: ../../Manual/Wireless/source/process.md:361
 msgid "F"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:367
+#: ../../Manual/Wireless/source/process.md:364
 msgid "ASCII Function Key Table"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:373
+#: ../../Manual/Wireless/source/process.md:370
 msgid "ASCII Chars Table"
 msgstr ""
