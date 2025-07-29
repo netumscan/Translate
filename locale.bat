@@ -16,6 +16,9 @@ sphinx-build -b gettext source ../../Translate/Wired-290
 cd ../Wired-CCD
 sphinx-build -b gettext source ../../Translate/Wired-CCD
 
+cd ../Wired-DP
+sphinx-build -b gettext source ../../Translate/Wired-DP
+
 cd ../Wired-HS7
 sphinx-build -b gettext source ../../Translate/Wired-HS7
 
