@@ -1,0 +1,22 @@
+name: Crowdin Action 2
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  crowdin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Crowdin push
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: true
+          upload_translations: false
+          download_translations: false
+        env:
+          CROWDIN_PROJECT_ID: 824184
+          CROWDIN_PERSONAL_TOKEN: daa7e488bcf554009114ae411067de3fc00288087436c570a5f26432faa84812bedad20ae69457b8
